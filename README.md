@@ -36,5 +36,3 @@ La calculadora tiene una interfaz web simple donde puedes seleccionar la operaci
 * Raíz enesima: /raiz/{operatorA}/{operatorB}
 * Porcentaje: /percentaje/{operatorA}/{operatorB}
 * Potencia: /potencia/{operatorA}/{operatorB}
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Puedes leer el archivo LICENSE para más detalles.
